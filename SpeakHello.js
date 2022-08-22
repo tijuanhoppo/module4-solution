@@ -32,4 +32,4 @@ var speakWord = "Hello";
 // xxxx.xxxx = helloSpeaker;
   window. helloSpeaker =  helloSpeaker;
   
-}(window);
+})(window);
