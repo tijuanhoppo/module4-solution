@@ -20,7 +20,7 @@ var speakWord = "Hello";
 // See Lecture 52, part 2
   helloSpeaker.speak = function() {
     
-   console.log(speakWord + " " + helloSpeaker.name);
+   console.log(speakWord + " " + helloSpeaker.names);
     
     
   }
